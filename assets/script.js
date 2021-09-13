@@ -1,5 +1,5 @@
 //add the function here
-$("document").ready(function()) {
+//$("document").ready(function()) {
     //add code for the date on the top
     $("#currentDay").text(moment().format("dddd, MMMM Do"));
     //savedTasks
@@ -15,6 +15,6 @@ $("document").ready(function()) {
     };
 
     //past, present, future
-    if (moment(time.get))
+    
 
-});
+//};
