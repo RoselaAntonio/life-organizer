@@ -9,4 +9,4 @@ Each time block is color-coded and features a save button that saves it in local
 The website should mimic this image:
 <img src="./images/05-third-party-apis-homework-demo.gif" />
 
-
+Deployed URL: https://roselaantonio.github.io/life-organizer/
