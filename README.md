@@ -7,4 +7,6 @@ Along with that, the daily planner shown will be presented in timeblocks that fo
 Each time block is color-coded and features a save button that saves it in local storage. The color-coding is there as it will help indicate whether the task written is in the past, present, or future.
 
 The website should mimic this image:
+file:///Users/roselaantonio/Desktop/life-organizer/images/05-third-party-apis-homework-demo.gif
+
 
